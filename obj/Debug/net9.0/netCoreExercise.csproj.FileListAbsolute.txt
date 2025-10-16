@@ -166,3 +166,4 @@ C:\Users\Victor Elizondo\source\repos\netCoreExercise\bin\Debug\net9.0\publish\a
 C:\Users\Victor Elizondo\source\repos\netCoreExercise\bin\Debug\net9.0\publish\netCoreExercise.deps.json
 C:\Users\Victor Elizondo\source\repos\netCoreExercise\bin\Debug\net9.0\publish\netCoreExercise.runtimeconfig.json
 C:\Users\Victor Elizondo\source\repos\netCoreExercise\bin\Debug\net9.0\publish\netCoreExercise.staticwebassets.endpoints.json
+C:\Users\Victor Elizondo\source\repos\netCoreExercise\obj\Debug\net9.0\netCoreExercise.sourcelink.json
